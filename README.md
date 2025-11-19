@@ -335,7 +335,7 @@ If you find this project useful, please consider citing:
 
 ## Author
 
-**Michael Wu (吴涛)**
+** Michael Wu **
 - GitHub: [@WuTao1103](https://github.com/WuTao1103)
 - Website: [TaoWu.me](https:/taowu.me)
 
